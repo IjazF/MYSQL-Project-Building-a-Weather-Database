@@ -1,11 +1,4 @@
--- 
--- MySQL Crash Course
--- 
--- Chapter 16 – Creating a Weather Database and Loading Data						
---
--- You can copy and paste any of these commands into your favorite MySQL tool
--- (like MySQL Workbench) and run them in your own MySQL environment.
---
+The script below needs to be inputted into a MySQL environment
 create database weather;
 
 use weather;
